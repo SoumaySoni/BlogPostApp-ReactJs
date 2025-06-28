@@ -26,10 +26,13 @@ A simple React.js blog post application that allows users to create, edit, like,
 
 ## 📦 Installation & Usage
 
-### 1. Clone the Repository
-
 ```bash
+# Clone the repository
 git clone https://github.com/YourUsername/blog-post-app.git
 cd blog-post-app
+
+# Install dependencies
 npm install
+
+# Start the development server
 npm start
